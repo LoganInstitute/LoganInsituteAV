@@ -1,0 +1,10 @@
+========== 11-24-2026 13:00:00UTC-07:00 ==========
+<< Author : Logan Mamanakis
+<< Executor : Logan Mamanakis
+<< Scope : Software, Firmware, Hardware
+<< Impact : Potentially breaking
+Update System Firmware 10.0.2 >> 10.5.2
+ -- Q-sys Design File
+ -- Q-sys Core
+   + All associated Q-sys hardware is updated automatically during initialization period.
+========== 11-24-2026 13:00:00UTC-07:00 ==========
